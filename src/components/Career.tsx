@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Master of Computer Application</h4>
+                <h5>Kamla Nehru Institute of Technology, AKTU</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2024 - 2026</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Pursuing my Master's degree in Computer Applications, focusing on advanced software engineering and modern web technologies.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Teacher</h4>
+                <h5>Gyanoday group of Institutions</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Programming instructor specializing in O-Level Course. Taught HTML, CSS, JavaScript, and Python with a focus on clear concepts and practical coding.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>B.Sc. in Computer Science</h4>
+                <h5>Mahatma Gandhi Kashi Vidyapith</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2019 - 2023</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Graduated with a focus on computer science fundamentals, data structures, algorithms, and core programming languages.
             </p>
           </div>
         </div>

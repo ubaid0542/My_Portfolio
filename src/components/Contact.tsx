@@ -10,29 +10,30 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:example@mail.com" data-cursor="disable">
-                example@mail.com
+              <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdubaid8090@gmail.com" target="_blank" rel="noreferrer" data-cursor="disable">
+                mdubaid8090@gmail.com
               </a>
             </p>
             <h4>Phone</h4>
             <p>
-              <a href="tel:+9199999999" data-cursor="disable">
-                +91 99999 99999
+              <a href="tel:+918090507639" data-cursor="disable">
+                +91 80905 07639
               </a>
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com"
+              href="https://github.com/ubaid0542"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
+              rel="noreferrer"
             >
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com"
+              href="https://www.linkedin.com/in/mdubaid8090?utm_source=share_via&utm_content=profile&utm_medium=member_android"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -40,25 +41,27 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com"
+              href="https://leetcode.com/u/Ubaid2024/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
+              rel="noreferrer"
             >
-              Twitter <MdArrowOutward />
+              LeetCode <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=mdubaid8090@gmail.com"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
+              rel="noreferrer"
             >
-              Instagram <MdArrowOutward />
+              Email <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Moncy Yohannan</span>
+              Designed and Developed <br /> by <span>MD. UBAID</span>
             </h2>
             <h5>
               <MdCopyright /> 2024
