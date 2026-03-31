@@ -24,6 +24,7 @@ const imageUrls = [
   "/images/python.png",
   "/images/html.png",
   "/images/css.png",
+  "/images/redux.png",
 ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 

@@ -98,6 +98,7 @@ const WhatIDo = () => {
                 <div className="what-tags">CSS3</div>
                 <div className="what-tags">JavaScript (ES6)</div>
                 <div className="what-tags">React.js</div>
+                <div className="what-tags">Redux</div>
                 <div className="what-tags">Tailwind CSS</div>
                 <div className="what-tags">GSAP</div>
                 <div className="what-tags">Shery.js</div>
