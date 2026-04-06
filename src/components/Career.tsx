@@ -21,7 +21,7 @@ const Career = () => {
               <h3>2024 - 2026</h3>
             </div>
             <p>
-              Pursuing my Master's degree in Computer Applications, focusing on advanced software engineering and modern web technologies.
+              Pursuing my Master's degree in Computer Applications, focusing on advanced software engineering and modern web technologies. Current CGPA: 7.70.
             </p>
           </div>
           <div className="career-info-box">
@@ -45,7 +45,7 @@ const Career = () => {
               <h3>2019 - 2023</h3>
             </div>
             <p>
-              Graduated with a focus on computer science fundamentals, data structures, algorithms, and core programming languages.
+              Graduated with a focus on computer science fundamentals, data structures, algorithms, and core programming languages. Academic Percentage: 62.94%.
             </p>
           </div>
         </div>
